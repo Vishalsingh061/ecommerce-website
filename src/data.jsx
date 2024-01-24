@@ -4,7 +4,7 @@ export const slideritems = [
     {
       id: 1,
       img: Slide1,
-      title: "TOTALITY SUMMER SALE",
+      title: "SUMMER SALE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
     },
