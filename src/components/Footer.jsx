@@ -68,7 +68,7 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>TOTALITY CORP.</Logo>
+        <Logo>Ecommerce Site by Vishal Singh</Logo>
         <Desc>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error nulla maxime officiis praesentium numquam ea provident perspiciatis suscipit, recusandae consequatur natus quisquam fugit, repellat quidem, cum tempore expedita molestiae nihil!</Desc>
         <SocialContainer>
             <SocialIcon color = "0a66c2">
