@@ -95,7 +95,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>TOTALITY CORP.</Logo>
+          <Logo>Ecommerce Site</Logo>
         </Center>
         <Right>
          <MenuItem>
